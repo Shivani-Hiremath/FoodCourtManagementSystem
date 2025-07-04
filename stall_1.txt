@@ -1,0 +1,18 @@
+Pizza Palace
+1
+1
+2
+1745413823
+
+
+2
+PIZZA
+Vegetarian
+Small
+200
+1
+PIZZA
+Margherita
+Small
+200
+1

@@ -1,0 +1,5 @@
+[Wed Apr 23 18:38:39 2025] New customer registered: Shivani (9481490236)
+[Wed Apr 23 18:40:44 2025] Admin logged in
+[Wed Apr 23 18:40:49 2025] You have entered wrong choice
+Please enter choice between 1 to 8
+[Wed Apr 23 18:42:33 2025] Existing customer logged in: Shivani (9481490236)

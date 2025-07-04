@@ -1,0 +1,20 @@
+Sales Report - Wed Apr 23 18:41:12 2025
+
+============================================
+Stall: Pizza Palace
+Total Sales: Rs. 400
+--------------------------------------------
+Stall: Dosa Corner
+Total Sales: Rs. 0
+--------------------------------------------
+Stall: Sandwich Delight
+Total Sales: Rs. 0
+--------------------------------------------
+Stall: Chai Point
+Total Sales: Rs. 0
+--------------------------------------------
+
+GRAND TOTAL: Rs. 400
+Total Customers: 1
+Total Orders: 2
+============================================

@@ -104,5 +104,5 @@ The **Food Court Management System** is a C++ project built using **Object-Orien
 
 ## 📜 How to Run  
 ```bash
-g++ -std=c++17 *.cpp -o foodcourt
-./foodcourt
+g++ -std=c++17 *.cpp -o fmcs3
+./fmcs3
